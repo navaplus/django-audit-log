@@ -24,7 +24,7 @@ will keep the previous entry and another one will be added reflecting the change
 When the user deletes the same model instance the audit log table will have an entry
 indicating this with the state of the model before it was deleted.
 
-	
+
 
 What It Doesn't Do
 ----------------------------
